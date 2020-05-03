@@ -1,2 +1,2 @@
 database:
-    name: localdb
+    name: testdb
