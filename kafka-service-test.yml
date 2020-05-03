@@ -1,3 +1,4 @@
 kafka:
     local.servername: localhost:9092
 
+    config-service
