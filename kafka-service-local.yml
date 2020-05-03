@@ -1,2 +1,2 @@
 kafka:
-    local.servername: localhost:9092
+    local.servername: localhost:1000
