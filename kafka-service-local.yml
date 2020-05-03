@@ -1,0 +1,2 @@
+kafka:
+    local.servername: localhost:9092
